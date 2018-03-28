@@ -4,7 +4,7 @@ This is a coding kata, or 'practice', to better understand how to do *Test Drive
 
 Code Katas are a great way for individuals and teams to sharpen their skills. You can find more katas to practice on [Code Kata](http://codekata.com/) and [KataCoda](https://www.katacoda.com/).
 
-# FizzBuzz
+## FizzBuzz
 
 The "Fizz-Buzz" is an interview question designed to help understand how candidates approach problem solving. The question generally goes like this:
 
@@ -14,6 +14,6 @@ If you would like to read an **extremely hot** take on this, see [Why Can't Prog
 
 We are going to do a slightly simpler variation, skipping the 1-to-100 loop.
 
-# Switching GitHub Repos
+## Switching GitHub Repos
 
 After cloning this repo, you will need to reset the origin to your own repo. To do that, use the command `git remote set-url origin https://github.com/USERNAME/fizz-buzz-kata.git`.
